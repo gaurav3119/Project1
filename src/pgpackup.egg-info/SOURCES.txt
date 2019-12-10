@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/pgbackup/__init__.py
+src/pgbackup/cli.py
+src/pgbackup/pgdump.py
+src/pgbackup/storage.py
+src/pgpackup.egg-info/PKG-INFO
+src/pgpackup.egg-info/SOURCES.txt
+src/pgpackup.egg-info/dependency_links.txt
+src/pgpackup.egg-info/entry_points.txt
+src/pgpackup.egg-info/requires.txt
+src/pgpackup.egg-info/top_level.txt
